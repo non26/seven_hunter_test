@@ -6,3 +6,6 @@
 
 - สำหรับ Test ข้อ 3. พาย ไฟ ได - Pie Fire Dire, เป็นแค่ get api ธรรมดาไม่ได้ใช้ Go-Routine
 สามารถรัน go run third_find_all_meat/cmd/main.go
+
+- test link
+https://github.com/7-solutions/backend-challenge
