@@ -1,0 +1,8 @@
+- สำหรับ Test ข้อ 1. จงหาเส้นทางที่มีค่ามากที่สุด
+สามารถรัน unit test ที่ first_most_value/find_value/find_value_test.go เพื่อดูผลลัพธื
+
+- สำหรับ Test ข้อ 2. จับฉันให้ได้สิ ซ้าย-ขวา-เท่ากับ
+สามารถรัน unit test ที่ second_left_right_equal/solution/solution_test.go เพื่อดูผลลัพธื
+
+- สำหรับ Test ข้อ 3. พาย ไฟ ได - Pie Fire Dire, เป็นแค่ get api ธรรมดาไม่ได้ใช้ Go-Routine
+สามารถรัน go run third_find_all_meat/cmd/main.go
